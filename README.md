@@ -8,7 +8,7 @@
 
   Below is a link to a video demonstrating how to test the API routes with insomnia:
 
-  xxxxxxxxx
+  https://watch.screencastify.com/v/bLhmR8RAUD7mnCBTIMmB
   
   ## Table of Contents
 
